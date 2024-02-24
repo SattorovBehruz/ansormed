@@ -1,0 +1,114 @@
+.heder-logo {
+  text-decoration-line: none;
+}
+
+.site-headernav {
+  display: inline-block;
+}
+
+.nav-list {
+  list-style: none;
+}
+
+.nav-iteam {
+  display: inline-block;
+}
+
+.nav-link {
+  text-decoration-line: none;
+  text-transform: uppercase;
+  color: #222;
+  font-size: 14px;
+}
+
+.site-link {
+  background-color: #de2e54;
+  text-decoration-line: none;
+  text-transform: uppercase;
+  color: #fff;
+  border-radius: 8px;
+  border: 2px solid #de2e54;
+}
+
+.hero-section {
+  background-color: #0eb4c1;
+}
+
+.hero-box {
+  display: inline-block;
+  width: 440px;
+}
+
+.hero-header {
+  color: #fff;
+  font-size: 36px;
+}
+
+.hero-text {
+  color: #fff;
+  font-size: 18px;
+}
+
+.services-header {
+  font-size: 36px;
+  text-align: center;
+}
+
+.services-list {
+  list-style: none;
+}
+
+.services-box {
+  display: inline-block;
+  width: 600px;
+}
+
+.services-heading {
+  color: #222;
+  font-size: 24px;
+}
+
+.site-article {
+  background-color: #0eb4c1;
+}
+
+.site-header {
+  color: #fff;
+  font-size: 36px;
+  text-align: center;
+}
+
+.article-list {
+  list-style: none;
+}
+
+.article-iteam {
+  display: inline-block;
+}
+
+.article-link {
+  color: #fff;
+  text-decoration-line: none;
+  text-align: center;
+  border-radius: 8px;
+  border: 2px solid #fff;
+}
+
+.site-footer {
+  background-color:  #222;
+}
+
+.footer-list {
+  display: inline-block;
+  list-style: none;
+}
+
+.footer-iteam {
+  display: inline-block;
+}
+
+.footer-link {
+  color: #fff;
+  font-size: 14px;
+  text-decoration-line: none;
+}
